@@ -1,0 +1,114 @@
+[
+    {
+        "quarterback": "Patrick Mahomes",
+        "career_stats": {
+            "games_played": 368,
+            "pass_attempts": 13225,
+            "pass_completions": 7240,
+            "pass_yards": 76319,
+            "pass_touchdowns": 530,
+            "rush_yards": 19470,
+            "rush_touchdowns": 270,
+            "interceptions": 350
+        },
+        "hof_status": "Eligible for Hall of Fame"
+    },
+    {
+        "quarterback": "Russell Wilson",
+        "career_stats": {
+            "games_played": 341,
+            "pass_attempts": 11074,
+            "pass_completions": 6487,
+            "pass_yards": 66839,
+            "pass_touchdowns": 482,
+            "rush_yards": 14497,
+            "rush_touchdowns": 180,
+            "interceptions": 329
+        },
+        "hof_status": "Eligible for Hall of Fame"
+    },
+    {
+        "quarterback": "Justin Herbert",
+        "career_stats": {
+            "games_played": 385,
+            "pass_attempts": 13864,
+            "pass_completions": 7215,
+            "pass_yards": 72179,
+            "pass_touchdowns": 446,
+            "rush_yards": 20921,
+            "rush_touchdowns": 316,
+            "interceptions": 524
+        },
+        "hof_status": "Not eligible for Hall of Fame"
+    },
+    {
+        "quarterback": "Aidan O'Connell",
+        "career_stats": {
+            "games_played": 334,
+            "pass_attempts": 11513,
+            "pass_completions": 5754,
+            "pass_yards": 50372,
+            "pass_touchdowns": 344,
+            "rush_yards": 16898,
+            "rush_touchdowns": 322,
+            "interceptions": 504
+        },
+        "hof_status": "Not eligible for Hall of Fame"
+    },
+    {
+        "quarterback": "Geno Smith",
+        "career_stats": {
+            "games_played": 264,
+            "pass_attempts": 8905,
+            "pass_completions": 4659,
+            "pass_yards": 39940,
+            "pass_touchdowns": 282,
+            "rush_yards": 12907,
+            "rush_touchdowns": 220,
+            "interceptions": 351
+        },
+        "hof_status": "Not eligible for Hall of Fame"
+    },
+    {
+        "quarterback": "Kyler Murray",
+        "career_stats": {
+            "games_played": 371,
+            "pass_attempts": 13143,
+            "pass_completions": 7290,
+            "pass_yards": 59142,
+            "pass_touchdowns": 388,
+            "rush_yards": 23842,
+            "rush_touchdowns": 439,
+            "interceptions": 505
+        },
+        "hof_status": "Not eligible for Hall of Fame"
+    },
+    {
+        "quarterback": "Brock Purdy",
+        "career_stats": {
+            "games_played": 365,
+            "pass_attempts": 12763,
+            "pass_completions": 6418,
+            "pass_yards": 61184,
+            "pass_touchdowns": 438,
+            "rush_yards": 20117,
+            "rush_touchdowns": 349,
+            "interceptions": 436
+        },
+        "hof_status": "Not eligible for Hall of Fame"
+    },
+    {
+        "quarterback": "Matthew Stafford",
+        "career_stats": {
+            "games_played": 342,
+            "pass_attempts": 12367,
+            "pass_completions": 7090,
+            "pass_yards": 79155,
+            "pass_touchdowns": 490,
+            "rush_yards": 8954,
+            "rush_touchdowns": 164,
+            "interceptions": 388
+        },
+        "hof_status": "Not eligible for Hall of Fame"
+    }
+]

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simulate Career</title>
+</head>
+<body>
+    <h1>Select a Quarterback to Simulate Career</h1>
+    <form method="POST">
+        {% csrf_token %}
+        <label for="quarterback">Choose a quarterback:</label>
+        <select name="quarterback" id="quarterback">
+            {% for qb in quarterbacks %}
+                <option value="{{ qb }}">{{ qb }}</option>
+            {% endfor %}
+        </select>
+        <button type="submit">Simulate Career</button>
+    </form>
+</body>
+</html>

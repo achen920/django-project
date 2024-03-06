@@ -1,0 +1,242 @@
+[
+    {
+        "name": "Patrick Mahomes",
+        "age": 28,
+        "coach":{
+            "name": "Andy Reid",
+            "experience": 23
+        },
+        "team": {
+            "name": "Chiefs",
+            "location": "Kansas City",
+            "history": "winning"
+        },
+        "experience": 7,
+        "skillset": {
+            "throw_accuracy": 93,
+            "pocket_awareness": 99,
+            "arm_strength": 97,
+            "speed": 84
+        },
+        "career_stats": {
+            "games_played": 96,
+            "pass_attempts": 3590,
+            "pass_completions": 2386,
+            "pass_yards": 28424,
+            "pass_touchdowns": 219,
+            "rush_yards": 1936,
+            "rush_touchdowns": 12,
+            "interceptions": 63
+        }
+    },
+    {
+        "name": "Russell Wilson",
+        "age": 35,
+        "coach":{
+            "name": "Sean Peyton",
+            "experience": 24
+        },
+        "team": {
+            "name": "Broncos",
+            "location": "Denver",
+            "history": "losing"
+        },
+        "experience": 12,
+        "skillset": {
+            "throw_accuracy": 84,
+            "pocket_awareness": 61,
+            "arm_strength": 91,
+            "speed": 85
+        },
+        "career_stats": {
+            "games_played": 188,
+            "pass_attempts": 5665,
+            "pass_completions": 3668,
+            "pass_yards": 43653,
+            "pass_touchdowns": 334,
+            "rush_yards": 5307,
+            "rush_touchdowns": 29,
+            "interceptions": 106
+        }
+    },
+    {
+        "name": "Justin Herbert",
+        "age": 25,
+        "coach":{
+            "name": "Jim Harbaugh",
+            "experience": 3
+        },
+        "team": {
+            "name": "Chargers",
+            "location": "Los Angeles",
+            "history": "losing"
+        },
+        "experience": 4,
+        "skillset": {
+            "throw_accuracy": 88,
+            "pocket_awareness": 85,
+            "arm_strength": 96,
+            "speed": 86
+        },
+        "career_stats": {
+            "games_played": 62,
+            "pass_attempts": 2422,
+            "pass_completions": 1613,
+            "pass_yards": 17223,
+            "pass_touchdowns": 114,
+            "rush_yards": 911,
+            "rush_touchdowns": 11,
+            "interceptions": 42
+        }
+    },
+    {
+        "name": "Aidan O'Connell",
+        "age": 25,
+        "coach":{
+            "name": "Antonio Pierce",
+            "experience": 1
+        },
+        "team": {
+            "name": "Raiders",
+            "location": "Las Vegas",
+            "history": "losing"
+        },
+        "experience": 1,
+        "skillset": {
+            "throw_accuracy": 81,
+            "pocket_awareness": 66,
+            "arm_strength": 86,
+            "speed": 75
+        },
+        "career_stats": {
+            "games_played": 11,
+            "pass_attempts": 343,
+            "pass_completions": 213,
+            "pass_yards": 2218,
+            "pass_touchdowns": 12,
+            "rush_yards": 11,
+            "rush_touchdowns": 1,
+            "interceptions": 7
+        }
+    },
+    {
+        "name": "Geno Smith",
+        "age": 33,
+        "coach":{
+            "name": "Mike Macdonald",
+            "experience": 0
+        },
+        "team": {
+            "name": "Seahawks",
+            "location": "Seattle",
+            "history": "losing"
+        },
+        "experience": 11,
+        "skillset": {
+            "throw_accuracy": 86,
+            "pocket_awareness": 79,
+            "arm_strength": 88,
+            "speed": 84
+        },
+        "career_stats": {
+            "games_played": 77,
+            "pass_attempts": 2077,
+            "pass_completions": 1314,
+            "pass_yards": 14823,
+            "pass_touchdowns": 84,
+            "rush_yards": 1222,
+            "rush_touchdowns": 10,
+            "interceptions": 57
+        }
+    },
+    {
+        "name": "Kyler Murray",
+        "age": 26,
+        "coach":{
+            "name": "Jonathan Gannon",
+            "experience": 1
+        },
+        "team": {
+            "name": "Cardinals",
+            "location": "Arizona",
+            "history": "losing"
+        },
+        "experience": 5,
+        "skillset": {
+            "throw_accuracy": 82,
+            "pocket_awareness": 66,
+            "arm_strength": 90,
+            "speed": 92
+        },
+        "career_stats": {
+            "games_played": 65,
+            "pass_attempts": 2239,
+            "pass_completions": 1492,
+            "pass_yards": 15647,
+            "pass_touchdowns": 94,
+            "rush_yards": 2448,
+            "rush_touchdowns": 126,
+            "interceptions": 46
+        }
+    },
+    {
+        "name": "Brock Purdy",
+        "age": 24,
+        "coach":{
+            "name": "Kyle Shanahan",
+            "experience": 7
+        },
+        "team": {
+            "name": "49ers",
+            "location": "San Fransisco",
+            "history": "winning"
+        },
+        "experience": 2,
+        "skillset": {
+            "throw_accuracy": 92,
+            "pocket_awareness": 88,
+            "arm_strength": 85,
+            "speed": 78
+        },
+        "career_stats": {
+            "games_played": 25,
+            "pass_attempts": 614,
+            "pass_completions": 422,
+            "pass_yards": 5654,
+            "pass_touchdowns": 44,
+            "rush_yards": 157,
+            "rush_touchdowns": 3,
+            "interceptions": 15
+        }
+    },
+    {
+        "name": "Matthew Stafford",
+        "age": 36,
+        "coach":{
+            "name": "Sean McVay",
+            "experience": 7
+        },
+        "team": {
+            "name": "Rams",
+            "location": "Los Angeles",
+            "history": "winning"
+        },
+        "experience": 15,
+        "skillset": {
+            "throw_accuracy": 87,
+            "pocket_awareness": 82,
+            "arm_strength": 94,
+            "speed": 74
+        },
+        "career_stats": {
+            "games_played": 206,
+            "pass_attempts": 7649,
+            "pass_completions": 4834,
+            "pass_yards": 56047,
+            "pass_touchdowns": 357,
+            "rush_yards": 1315,
+            "rush_touchdowns": 15,
+            "interceptions": 180
+        }
+    }
+]
